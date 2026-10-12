@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.local
+*.log
+logs/
+.DS_Store
+data/generated/
+.idea/
+.vscode/
+dist/
+coverage/
+config/servers.js
