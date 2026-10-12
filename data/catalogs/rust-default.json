@@ -1,0 +1,10 @@
+{
+  "catalog": "rust-default",
+  "game": "rust",
+  "items": [
+    { "className": "rifle.ak", "displayName": "Assault Rifle", "category": "Weapons", "price": 5000 },
+    { "className": "ammo.rifle", "displayName": "Rifle Ammo", "category": "Ammo", "price": 200 },
+    { "className": "scrap", "displayName": "Scrap (100)", "category": "Resources", "price": 250 },
+    { "className": "syringe.medical", "displayName": "Medical Syringe", "category": "Medical", "price": 150 }
+  ]
+}
